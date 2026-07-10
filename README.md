@@ -1,6 +1,2 @@
-aiogram==3.4.1
-aiohttp
-requests
-yt-dlp
-pydub
-lyricsgenius
+# MuzicPro Bot
+MuzicPro Telegram Music Bot
